@@ -1,4 +1,5 @@
-
+# 自動爬取網頁，並以 selenium 自動定位欲擷取的特定文字，螢幕截圖， OpenCV 辨識文字，
+## 將所辨識文字自動填表到指定網頁表單
 from selenium import webdriver
 import time
 import os
